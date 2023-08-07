@@ -1,0 +1,20 @@
+.beer_card, h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+img {
+    padding-bottom: 4vh;
+}
+
+button {
+    margin-right: 0.5vw;
+}
+
+.scrip {
+   margin-left: 30vh;
+   margin-right: 30vh;
+}
